@@ -1,0 +1,25 @@
+/* Hide Streamlit Branding */
+#MainMenu {visibility: hidden;}
+/* footer {visibility: hidden;} */
+header {visibility: hidden;}
+
+/* This line removes all the link icons that appear by titles */
+.css-15zrgzn.eqr7zpz2 {display: none;}
+.css-rjhf6z.eqr7zpz2 {display: none;}
+
+/* Editing the styling of the 'Search for answers here!' text */
+.css-gkp278.eqr7zpz4 {
+    background-color: rgba(255, 255, 255, 0.623) !important;
+    border-radius:14px !important; 
+    border: 4px solid #E6DFCD !important; 
+    padding:12px; font-size:20px !important; 
+    font-weight: bold !important;
+    color:white !important;
+    font-size: 18px !important;
+    /* Add any other styles you want to apply */
+}
+
+.css-gkp278.eqr7zpz4::after {
+    content: "Search here!" !important;
+    display: block;
+}

@@ -1,0 +1,153 @@
+Region,Country,Does GBS Care currently support Country,Is the location a HUB,Currently supported by HUB,HUB Name,Language(s) used,English Speaking CARE?,Cluster Leader,Operation Hours,Number of Agents,Phone,IVR?,Care General Email,"Country Validation
+Is the Care Phone / IVR and Email correct?","Care Dedicated  
+ InSight Phone #",Is InSight Number Correct ?,"If No, Correct Number to use ","Care Dedicated
+InSight Email","InSight #
+Phone Validated Date","Care Team
+Email Validated Date","InSight Rollout?
+(P) PENDING
+P|Y|N","InSight ACTIVE Customers?
+Y|N",Number of Active Customers INSIGHT,"enVision Rollout 
+(P) PENDING
+P|Y|N","enVision ACTIVE Customers 
+P|Y|N",Number of Active Customers ENVISION,"Care Dedicated
+ enVision Phone #","Care Dedicated
+enVision Email","Care
+enVision
+Coverage",CBK enVision email,"enVision
+Onboarding Priority"
+ESA,Belgium,Yes,No,Yes,Cluj,"Dutch
+French
+English",Yes,Leah Fyfe,M - F 8am - 5pm,,+32 2 712 2020,No,cis@ironmountain.nl,Yes,,,,,,,Y,,,N,,,,,,,
+ESA,Bulgaria,Yes,No,Yes,Cluj,Bulgarian,No,Elena Paraskeva,M - F 08.00 am - 16.30 pm local time,1,+359 (2) 832 11 00,No,supportbg@irmbulgaria.com,Yes,,,,,,,P,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,supportbg@ironmountain.com,
+ESA,Croatia,Yes,No,Yes,Cluj,Croatian,No,Elena Paraskeva,M - F 08:00 am - 16:00 pm local time,3,+385 1 6177 777,No,podrska@ironmountain.com,Yes,,,,,,,P,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,podrska@ironmountain.com,
+ESA,Cyprus,Yes,No,Yes,Cluj,Greek,No,Elena Paraskeva,M - F 07:30 am - 17:30 pm local time,4,+357 7777 8666,Yes,info.cy@ironmountain.com,Yes,,,,,,,Y,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Czech_Republic,Yes,No,Yes,Cluj,Czech,No,Elena Paraskeva,M - F 08:00 am - 17:00 pm local time,3,+420 233 900 638,Yes,prague@emea.ironmountain.com,Yes,,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,prague@emea.ironmountain.com,
+ESA,Denmark,Yes,No,Yes,Cluj,Dannish,No,Magdalena Madalinska,"M - T 8am - 4pm local time
+F 8am - 3.30pm",3,+45 70 21 77 00,No,kundeservice@ironmountain.com,Yes,+45 70 21 77 00,Y,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,N,,,,,,,
+ESA,Estonia,Yes,No,Yes,Cluj,Estonian,No,Elena Paraskeva,M - F 08.30 -  5pm,1,+372 603 4050,No,info.ee@ironmountain.com,Yes,,,,,,,N,,,N,,,,,,,
+ESA,Finland,Yes,No,Yes,Cluj,Finnish,No,Magdalena Madalinska,M - F 8am - 4pm local time,,35 89 825 60 214,No,arkisto@ironmountain.com,Yes,35 89 825 60 214,Y,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,N,,,,,,,
+ESA,France,Yes,No,Yes,Cluj,French,No,Leah Fyfe,M - F 09:00 am to 5:30 pm (7:30 am to 5:30 pm for DM orders),23,0800 215 218,No,customer.services@ironmountain.fr,Yes,33169748910,,,InSight.Support@ironmountain.com,,n/a,Y,,,P,P,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Germany/Austria,Yes,No,Yes,Cluj,German,No,Magdalena Madalinska,M - F 8am - 5pm local time,1,0800 408 0000,No,"order@ironmountain.de
+contact@ironmountain.de",Yes,0800 408 0000,Y,,InSight.Support@ironmountain.com,,n/a,Y,,,Y,P,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Greece,Yes,No,Yes,Cluj,Greek,No,Elena Paraskeva,M - F 08:00 am - 17:00 pm local time,4,+30 213 016 7500,No,customerservice_gr@emea.ironmountain.com,Yes,,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Hungary,Yes,No,Yes,Cluj,Hungarian,No,Elena Paraskeva,M - F 08:00 am - 17:00 pm local time,5,+36 1 815 3600,Yes,budapest@emea.ironmountain.com,Yes,,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,budapest@emea.ironmountain.com,
+ESA,Latvia,Yes,No,Yes,Cluj,Latvian,No,Elena Paraskeva,M-F 08:00-16:30,1,+371 283 69359,No,info.lv@ironmountain.com,Yes,,,,,,,N,,,N,,,,,,,
+ESA,Lithuania,Yes,No,Yes,Cluj,Lithuanian,No,Elena Paraskeva,"M-Th 08:00-17.00
+Friday 08:00-16:00 
+",3,+3705 231 9484,No,info.lt@ironmountain.com,Yes,,,,,,,N,,,N,,,,,,,
+ESA,Norway,Yes,No,Yes,Cluj,Norwegian,No,Magdalena Madalinska,M - F 8am - 4pm local time,4,"47 64 98 66 30 (Vestby)
+47 51 71 98 00 (Stavanger)",No,ordre@ironmountain.com,Yes,,,,,,,Y,,,N,,,,,,,
+ESA,Poland,Yes,No,Yes,Cluj,Polish,No,Magdalena Madalinska,"M-F 
+6am - 5pm local time",8,48 500 206 155,No,orders@ironmountain.pl,Yes,,,,InSight.Support@ironmountain.com,,n/a,Y,,,Y,P,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Romania,Yes,No,Yes,Cluj,Romanian,No,Elena Paraskeva,M-F 8am-5pm local time,4,+40724 163 182,No,customerservice_ro@emea.ironmountain.com,Yes,,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Serbia,Yes,No,Yes,Cluj,Serbian,No,Elena Paraskeva,M-F 08:00am  - 16:00 pm local time,6,+381 11 3239 336,No,customerservice_rs@emea.ironmountain.com,Yes,+381 11 3239 336,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,customerservice_rs@emea.ironmountain.com,
+ESA,Slovakia,Yes,No,Yes,Cluj,Slovak,No,Elena Paraskeva,M - F 08:00 am - 17:00 pm local time,3,+421 249 106 900,No,bratislava@emea.ironmountain.com,Yes,,,,,,,N,,,Y,Y,,we can reuse the # if it exists,2 weeks ETA,depends on budget,bratislava@emea.ironmountain.com,
+ESA,South_Africa,Yes,No,Yes,Cluj,English,Yes,Leah Fyfe,"M - F Care: 07:30am to 16:30pm
+Ops: 08:00am to 17:00pm",24,0861 476 668,No,za.customerservices@ironmountain.com,Yes,0861 476 668,,,,,,N,,,P,,,,,,,
+ESA,Spain,Yes,No,Yes,Cluj,Spanish,No,Leah Fyfe,M - F 08:00 am to 17:00 pm,13,900 22 23 24,No,atencion.cliente@ironmountain.es,Yes,34 901501017,,,,,,Y,,,P,P,,,,,,
+ESA,Sweden,Yes,No,Yes,Cluj,Swedish,No,Magdalena Madalinska,M - F 8am - 4pm local time,6,"46 8 55 10 20 30 (Örebro)
+46 07 22 12 28 29 (Östersund)",No,kundservice.sverige@ironmountain.com,Yes,46 8 55 10 20 30,,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,P,,,,,,,
+ESA,Switzerland,Yes,No,Yes,Cluj,"French
+German",No,Magdalena Madalinska,M to F - 8h00 am to 5h30 pm,3,0800 00 24 24,No,service@ironmountain.ch,Yes,,,,,,,Y,,,Y,P,,we can reuse the # if it exists,2 weeks ETA,depends on budget,,
+ESA,Netherlands,Yes,No,Yes,Cluj,"Dutch
+French
+English",No,Leah Fyfe,M - F 08:00 am to 17:00 pm,7,010 425 4444/within 2 months 088-4254444,No,cis@ironmountain.nl,Yes,0800 272 4433,Y,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,N,,,,,,,
+ESA,United_Kingdom,Yes,No,Yes,Bangalore [IMS],English,Yes,Leah Fyfe,M - F 07:00 am to 18:30 pm,33,08445 60 70 80,No,cservices@ironmountain.co.uk,Yes,8445607080,,,InSight.Support@ironmountain.com,4/6/23,n/a,Y,,,N,,,,,,,
+ESA,Ireland,Yes,No,Yes,Bangalore [IMS],English,Yes,Leah Fyfe,M - F 07:00 am to 18:30 pm,As above for UK - Combined resource,R.O.I 1800 732 673,No,cservices@ironmountain.co.uk,Yes,8445607080,,,InSight.Support@ironmountain.com,,,Y,,,N,,,,,,,
+MENAT,Bahrain,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,,No dedicated Care agent,+973 17 467536,No,request.bh@ironmountain.com,Yes,,,,,,,N,,,Y,,,,,,,
+MENAT,Egypt,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,Saturday - Thursday 8am - 7pm local time,9,"+201022422999
+'+02 16915 -Hotline
+",No,"request.eg@ironmountain.com
+cairogreenbox@infofort.com",Yes,,,,,,,N,,,Y,Y,,,,,,
+MENAT,Jordan,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,,No dedicated Care agent,+962 6 200 2425,No,request.jo@ironmountain.com,Yes,,,,,,,N,,,N,,,,,,,
+MENAT,Kuwait,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,,No dedicated Care agent,+965 690 62067,No,request.kw@ironmountain.com,Yes,,,,,,,N,,,Y,,,,,,,
+MENAT,Morocco,Yes,No,No,To be decided,"Arabic
+(English/French)",Yes,Zeynep Cakir,,No dedicated Care agent,n/a,No,n/a,Yes,,,,,,,N,,,Q4,,,,,,,
+MENAT,Oman,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,Sunday - Thursday 8am - 5pm local time,1,+968 24 503 392/883,No,request.om@ironmountain.com,Yes,,,,,,,N,,,Y,,,,,,,
+MENAT,Qatar,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,,No dedicated Care agent,+974 44758151,No,doharequest@infofort.com,Yes,,,,,,,N,,,N,,,,,,,
+MENAT,Saudi_Arabia,Yes,No,No,To be decided,Arabic,No,Zeynep Cakir,,No dedicated Care agent,"""+966 920005569 -JED
+'+966 55 6391862 -DMM
+'+966 (011) 2169818 x 4020/4024 - RUH
+
+",No,"request.ruh@ironmountain.com
+request.dmm@ironmountain.com
+request.jed@ironmountain.com",Yes,,,,,,,N,,,Y,,,,,,,
+MENAT,Turkey,Yes,No,No,,"English
+Turkish",Yes,Zeynep Cakir,Monday - Friday 8am - 6pm local time,4,4444476,No,"talep@ironmountain.com
+svc_trme@ironmountain.co.uk
+s8@ironmountain.co.uk
+siparis@emea.ironmountain.com",Yes,,,,,,,N,,,Y,Y,,,,,,
+MENAT,United_Arab_Emirates,Yes,No,No,To be decided,"English
+Arabic",Yes,Zeynep Cakir,Monday - Saturday 8am - 5pm local time,8,"+971 04-8879200 - DWC&DIP
+'+971 60-0540041 - IF
+",No,"request.ae@ironmountain.com (PRM)
+request.ae.media@ironmountain.com (MVR)
+request.ae.greenbox@ironmountain.com (GB)
+requests-uae@ironmountain.com (DWC)
+customerserviceuae@ironmountain.com (DIP)",Yes,,,,,TBD,n/a,Y,,,Y,Y,,,,,,
+LATAM,Argentina,Yes,No,Yes,Bogota,Spanish,No,Julian Florez,M - F 8am - 5pm local time,4,4630 5100 y 4630 4100,Yes,serviciocliente@ironmountain.com.ar,Yes,4630-4100,,,Soporte.Insight@IronMountain.com.ar,TBD,TBD,Y,,,Y,,,,,,,
+LATAM,Brazil,Yes,No,No,Sao Paulo,Portuguese,No,Solange De Brito,M - F 8am - 5pm local time,45,"(11) 3767-0888 - Grande São Paulo
+40001288 - Demais regiões
+crb@ironmountain.com.br",No - will be coming in 2023,crb@ironmountain.com.br,Yes,"São Paulo 11 3767-0888,
+ Other regions 4000-1288",,,Suporte.Insight@ironmountain.com.br,TBD,TBD,Y,,,Y,,,,,,,
+LATAM,Chile,Yes,No,Yes,Bogota,Spanish,No,Julian Florez,M - F 8am - 5pm local time,19,(+56 2) 239 57000,Yes,contacto.clientes@ironmountain.cl,Yes,Santiago 2395-7000,,,Soporte.Insight@IronMountain.cl,TBD,TBD,Y,,,Y,,,,,,,
+LATAM,Colombia,Yes,Yes,Yes,Bogota,Spanish,No,Alejandra Nieto,M - F 8am - 5pm local time,15,1-742 1904,Yes,servicioalcliente@ironmountain.com.co,yes,Bogotá 742-1904,,,Soporte.Insight@IronMountain.com.co,TBD,TBD,Y,,,Y,,,,,,,
+LATAM,Mexico,Yes,No,Yes,Bogota,Spanish,No,Julian Florez,M - F 8am - 5pm local time,14,800 1 IRONMEX,Yes,atencionaclientes@ironmountain.com.mx,Yes,"National toll free
+800-55262-46",,,Soporte.Insight@IronMountain.com.mx,TBD,TBD,Y,,,Y,,,,,,,
+LATAM,Peru,Yes,No,Yes,Bogota,Spanish,No,Alejandra Nieto,M - F 8am - 5pm local time,18,01 711 4000,Yes,atencionalcliente@ironmountain.com.pe,Yes,Lima 711-4000,,,Soporte.Insight@IronMountain.com.pe,TBD,TBD,Y,,,Y,,,,,,,
+NA,United_States,Yes,Yes,Yes,"NA is supported by Bangalore IMS Team, Bogota and CNX","English
+Spanish",Yes,"Yvonne Mirilovich
+Mario Valbuena
+Harish Perumpilavil (IMS)",M - F 8am - 5pm,"Local:  301
+IMS: 172
+Bogota:  17
+CNX:  428",1800 899 4766,Yes,askcustomerservice@ironmountain.com,Yes,"855.677.7528
+855.677.7529
+855.677.7530",,,InSight.Support@ironmountain.com,validated,n/a,Y,,,Q4,,,We want to leverage the InSight #,envision.support@ironmountain.com,,,
+NA,Canada,Yes,No,Yes,"NA is supported by Bangalore IMS Team, Bogota and CNX","English
+French",Yes,"Yvonne Mirilovich
+Mario Valbuena
+Harish Perumpilavil (IMS)",M - F 8am - 5pm,Local: 22,1800 899 4766,Yes,askcustomerservice@ironmountain.com,Yes,855.677.7528,,,InSight.Support@ironmountain.com,validated,n/a,Y,,,Q4,,,We want to leverage the InSight #,envision.support@ironmountain.com,,,
+APAC,Australia,Yes,No,Yes,Bangalore [IMS],English,Yes,Graham Dunster,M - F 7am - 5pm local time,"Local: 18
+IMS: 19",1300476668,Yes,more.info@ironmountain.com,Yes,1300 476 668,,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,Q4,,,,,,,
+APAC,New_Zealand,Yes,No,Yes,Bangalore [IMS],English,Yes,Graham Dunster,"M - F 7am - 5pm 
+local time ",Rolled up in to Australia #,800732255,Yes,more.info@ironmountain.com,Yes,,,,,,,Y,,,Q4,,,,,,,
+APAC,India,Yes,Yes,No,,English,Yes,Kiran Lad,M- F 8am -7.30pm local time,Local: 42,8069194766,Yes,"customerservicewest@ironmountain.com
+customerservicesouth@ironmountain.com
+customerservicenorth@ironmountain.com
+customerserviceeast@ironmountain.com
+
+Will launch centralised email in Q4 of 2023: careindia@ironmountain.com",Yes,0806-919-4766,,,"InSight.Support@ironmountain.com (This email id is not managed by CARE team. All requests for Insight are also catered through Customer CARE email ids (customerservicewest@ironmountain.com
+customerservicesouth@ironmountain.com
+customerservicenorth@ironmountain.com
+customerserviceeast@ironmountain.com ) ",TBD,n/a,Y,,,Q4,,,,,,,
+APAC,China,Yes,No,No,,Chinese,No,Siefer Gao,M - F 9am - 6pm local time,Local: 14,4008880360,Yes,ccs@ironmountainchina.com.cn,Yes,,,,,,,N,,,N,,,,,,,
+APAC,Singapore,Yes,No,Yes,Bangalore [IMS],English,Yes,Ming Jiang Jim Lee,M - F 8.30am - 6pm local time,"Local: 4
+IMS: 8",+65 62625777,Yes,"care.dms@ironmountain.com
+care.im@ironmountain.com
+sgcustomerservice@ironmountain.com <<Newly added
+care.dps@ironmountain.com <<Newly added
+emanifest.dps@ironmountian.com <<Newly added
+web.enquiry@ironmountain.com <<Newly added",Yes,"Unsure as the details were crossed earlier. ""62625622
+62625777 option 1, then option 3"". The right one is 62625777 option 1,3",,,InSight.Support@ironmountain.com,TBD,n/a,Y,,,Q4,,,,,,,
+APAC,Malaysia,Yes,No,No,,"English
+Malay",Yes,Ming Jiang Jim Lee,M - F 9am - 6am local time,Local: 6,+603 5123 7688,No,mycustomerexperience@ironmountain.com,Yes,+603 5123 7688,,,InSight.Support@ironmountain.com,,,Y,,,Q4,,,,,,,
+APAC,Thailand,Yes,No,No,,Thai,No,Ming Jiang Jim Lee,M - F 8.30am - 5.30am local time,"Local: 11
+IMS: 1","66-2-407-3333.
+Updated with other phone numbers. 
+'+66-2-407-3333 ext. 8305 - office
+'+66-99 287 26687,099 287 6388",No,imthcustomercare@ironmountain.com,Yes,Envision (Insight) Soon to be implemented in Thailand. To use CARE General Phone Line.  66-2-407-3333,,,"Envision (Insight) Soon to be implemented in Thailand.
+Once implemented, align with other countries :- 
+InSight.Support@ironmountain.com",,,Y,,,Q4,,,,,,,
+APAC,Vietnam,Yes,No,No,,Vietnamese,No,Ming Jiang Jim Lee,M - F 9am - 6p local time,0,(+84) 0251 3683695,No,N/A,Yes,,,,,,,Y,,,Q4,,,,,,,
+APAC,Indonesia,Yes,No,No,,Bahasa Indonesia,No,Ming Jiang Jim Lee,M - F 8am - 5pm local time,Local: 25,021-8972526 (MMI) / 021-39737777 (IMID),No,"MMI : mmi.traffic.management.groups@ironmountain.com
+IMID : id.care@ironmountain.com",Yes,,,,,,,Y,,,Q4,,,,,,,
+APAC,Hong_Kong,Yes,No,Yes,Bangalore [IMS],"English
+Chinese",Yes,Amanda Sibulo,M - F 9am - 6pm local time,Local: 5,+852 2331 8000,No,"imhk_cs@ironmountain.com
+ccs-hk@ironmountain.com
+imhk.order@ironmountain.com
+imhk_rush_order@ironmountain.com",Yes,,,,,,,Y,,,Y,,,,,,,
+APAC,Taiwan,Yes,No,No,,Chinese,No,Amanda Sibulo,M - F 9am - 6pm local time,Local: 5,+886 3 311 9228,No,service.tw@ironmountain.com,Yes,,,,,,,Y,,,Q4,,,,,,,
+APAC,Philippines,Yes,No,No,,"English
+Tagalog",Yes,Amanda Sibulo,M - F 8am - 5pm local time,Local: 6,+63 2 8628 4939,No,ironmountainphilippinescare@ironmountain.com,Yes,,,,,,,Y,,,Q4,,,,,,,
+APAC,South_Korea,Yes,No,No,,Korean,No,Amanda Sibulo,M - F 8.30 - 5.30pm local time,Local: 4,82-1688-8610,No,imskcare@ironmountain.com,Yes,,,,,,,Y,,,Q4,,,,,,,
